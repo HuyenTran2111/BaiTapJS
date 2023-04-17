@@ -1,0 +1,10 @@
+.name{
+    padding: 10px ;
+    border: 1px solid  hotpink;
+    background-color: hotpink;
+    color: white;
+}
+.btn{
+    padding: 10px 50px;
+    border-radius: 20px;
+}
